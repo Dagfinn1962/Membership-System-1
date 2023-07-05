@@ -12,7 +12,7 @@ class Config {
     function __construct()
     {
         $this->config_host = "localhost";
-        $this->config_database = "members";
+        $this->config_database = "member";
         $this->config_username = "aichatbot;
         $this->config_password = "Bulldog@1979";
     }
